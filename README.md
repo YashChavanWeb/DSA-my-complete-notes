@@ -4,7 +4,7 @@
 
 This repository contains my notes and implementations of various Data Structures and Algorithms topics in C++.
 
-## Folders
+## Folders (keeps on updating)
 
 1. **Basics**: This folder contains basic data structures and algorithms concepts.
 
